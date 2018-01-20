@@ -1,0 +1,7 @@
+---
+- !ruby/object:Shield
+  power: 2
+  value: 99
+- !ruby/object:Shield
+  power: 7
+  value: 29
